@@ -1,0 +1,278 @@
+Using pre-set license
+Built from '2021.2/staging' branch; Version is '2021.2.16f1 (559fc0ec6670) revision 5611456'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 16227 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.2.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/cyrus/Documents/GitHub/gpd-gdp-7/sacred dimension
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54356
+Successfully changed project path to: C:/Users/cyrus/Documents/GitHub/gpd-gdp-7/sacred dimension
+C:/Users/cyrus/Documents/GitHub/gpd-gdp-7/sacred dimension
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 170.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.2.16f1 (559fc0ec6670)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/cyrus/Documents/GitHub/gpd-gdp-7/sacred dimension/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.2.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.018892 seconds.
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 144.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.247 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1248ms)
+		BeginReloadAssembly (152ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (831ms)
+			LoadAssemblies (148ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (168ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (508ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (138ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (144ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (160ms)
+				ProcessInitializeOnLoadMethodAttributes (64ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Package Manager log level set to [2]
+Mono: successfully reloaded assembly
+- Completed reload, in  2.139 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2140ms)
+		BeginReloadAssembly (345ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (146ms)
+		EndReloadAssembly (1545ms)
+			LoadAssemblies (180ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (358ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (105ms)
+			SetupLoadedEditorAssemblies (829ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (57ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (143ms)
+				ProcessInitializeOnLoadAttributes (363ms)
+				ProcessInitializeOnLoadMethodAttributes (241ms)
+				AfterProcessingInitializeOnLoad (21ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 2.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2352 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (61.7 KB). Loaded Objects now: 2824.
+Memory consumption went from 113.7 MB to 113.6 MB.
+Total: 14.067800 ms (FindLiveObjects: 0.435100 ms CreateObjectMapping: 0.361000 ms MarkObjects: 12.879200 ms  DeleteObjects: 0.389500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 318416.792653 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Gong_01.prefab
+  artifactKey: Guid(a7f26d0100787104885cf13fba75ec0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Gong_01.prefab using Guid(a7f26d0100787104885cf13fba75ec0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfc3f1c9b1dc066bc02daec7a1ac8cb') in 0.247860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/samuria buildings/PondGarden.prefab
+  artifactKey: Guid(3d4583bac2dd55d4eb398e347ce25ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/PondGarden.prefab using Guid(3d4583bac2dd55d4eb398e347ce25ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93e409a60768ec505f90567339bdffc') in 1.090021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/samuria buildings/SM_Bld_House_Addon_07.prefab
+  artifactKey: Guid(deace4dcea461d047a76228c05ddad73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/SM_Bld_House_Addon_07.prefab using Guid(deace4dcea461d047a76228c05ddad73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2b049f364d822c6f70b78f76506610b') in 0.214969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/samuria buildings/SM_Bld_House_Addon_05.prefab
+  artifactKey: Guid(562936a227992974d8b26d43e262766c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/SM_Bld_House_Addon_05.prefab using Guid(562936a227992974d8b26d43e262766c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4fbc12403bc8ddca43dbf556f547939') in 0.319464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Env_Bridge_01.prefab
+  artifactKey: Guid(f702443775b056942beddceaaee349cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Env_Bridge_01.prefab using Guid(f702443775b056942beddceaaee349cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7119bb88e9a525e99d0bf5f121585e33') in 0.037148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Zen_Lantern_01.prefab
+  artifactKey: Guid(07fcc524c4bf8054e94a61265c66e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Zen_Lantern_01.prefab using Guid(07fcc524c4bf8054e94a61265c66e6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653c4e84ddbd0a0d9b3a0ea2cca0a788') in 0.030571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/prefab4enemy/SpecterMaskTint.prefab
+  artifactKey: Guid(dedb16afa15cc0d41bd514230dfbfcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab4enemy/SpecterMaskTint.prefab using Guid(dedb16afa15cc0d41bd514230dfbfcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec77fbda706885246b3423c294f4a91') in 0.246366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/samuria buildings/Castle.prefab
+  artifactKey: Guid(dabddc8e6942141469f4f1fc34d6ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/Castle.prefab using Guid(dabddc8e6942141469f4f1fc34d6ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3785fd74b23a5f83c3885a32b419cf7c') in 1.130993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/samuria buildings/SM_Bld_Castle_Base_Large_Windows_02.prefab
+  artifactKey: Guid(df7dfca81e99fe44e95e7b9072fe8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/SM_Bld_Castle_Base_Large_Windows_02.prefab using Guid(df7dfca81e99fe44e95e7b9072fe8fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c783159f009e82b719049c623b69383') in 0.050515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Env_Tree_03 (3).prefab
+  artifactKey: Guid(84a0f70ed6862b4459809a8f44710b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Env_Tree_03 (3).prefab using Guid(84a0f70ed6862b4459809a8f44710b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a441b09cd81015921b06da251301f82c') in 0.025096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/prefab4enemy/BlackKnightMaskTint.prefab
+  artifactKey: Guid(8c4f4dd970f3bbf45aab007ed506ba0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab4enemy/BlackKnightMaskTint.prefab using Guid(8c4f4dd970f3bbf45aab007ed506ba0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf8c994e10da108bdd7f58ecd7bb4a3') in 0.264656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Bell_01.prefab
+  artifactKey: Guid(f187f0dc804d5d044941644eb94a2261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Bell_01.prefab using Guid(f187f0dc804d5d044941644eb94a2261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d44ae878d6273c2fe003829fe7c74f') in 0.029242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Table_02.prefab
+  artifactKey: Guid(c294b7a82e66ce54fa6bae440c3c66d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Table_02.prefab using Guid(c294b7a82e66ce54fa6bae440c3c66d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad480bb2c1c5d36838c269bd26618fdb') in 0.024498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/samuria buildings/SM_Bld_Platform_Medium_01.prefab
+  artifactKey: Guid(7d917290ad914c244861f0b840d5c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/SM_Bld_Platform_Medium_01.prefab using Guid(7d917290ad914c244861f0b840d5c877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8fb7c9a264256f7c7c3b4fbc5f311c3') in 0.053564 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/samuria buildings/SM_Env_Cliff_17.prefab
+  artifactKey: Guid(8ea6a4b3dbc5df146bd0ea9df53e40f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/SM_Env_Cliff_17.prefab using Guid(8ea6a4b3dbc5df146bd0ea9df53e40f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c22a1eddbb9ac6e74226ff4b32eb716') in 0.029648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Bucket_01.prefab
+  artifactKey: Guid(fc2839fc9999d25418ad36c5bf3e1177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Bucket_01.prefab using Guid(fc2839fc9999d25418ad36c5bf3e1177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680dffd6cad05f0d1124e82a282b0fe2') in 0.030461 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/samiria obsticle pre fab/SM_Prop_Statue_Lion_02 (1).prefab
+  artifactKey: Guid(e15e6b91b4d98854c9c1f458cf7ee5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samiria obsticle pre fab/SM_Prop_Statue_Lion_02 (1).prefab using Guid(e15e6b91b4d98854c9c1f458cf7ee5f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be74d237e71a57e6572e64ce438bab08') in 0.030536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/samuria buildings/MountainVillage.prefab
+  artifactKey: Guid(76f3355ba98fb36488f9fcf76d769622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/samuria buildings/MountainVillage.prefab using Guid(76f3355ba98fb36488f9fcf76d769622) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3e0fafa905182a7a905575fea0cc67') in 0.293960 seconds 

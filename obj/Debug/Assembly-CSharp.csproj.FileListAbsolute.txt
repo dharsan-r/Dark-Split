@@ -1,0 +1,2 @@
+C:\ProgramData\ASUS\ASUS Live Update\Temp\unity project\Unity Square game\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\ProgramData\ASUS\ASUS Live Update\Temp\unity project\Unity Square game\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
