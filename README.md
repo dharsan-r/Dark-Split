@@ -29,5 +29,5 @@ https://user-images.githubusercontent.com/67665008/189557969-976c4ee4-6c40-4afb-
 * Fix minor clipping issues in 3 platforms.
 * Implement a mobile version.
 
-Play Testing: https://docs.google.com/document/d/1N3jz9Xc7yGnbb8vq1fP6iX0JtnGoio6O2Igvc3sB9rQ/edit?usp=sharing
-Asset Pack: https://assetstore.unity.com/packages/3d/environments/urban/urban-city-pack-34832
+* Play Testing: https://docs.google.com/document/d/1N3jz9Xc7yGnbb8vq1fP6iX0JtnGoio6O2Igvc3sB9rQ/edit?usp=sharing
+* Asset Pack: https://assetstore.unity.com/packages/3d/environments/urban/urban-city-pack-34832
