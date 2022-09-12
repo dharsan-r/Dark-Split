@@ -16,6 +16,7 @@ Dark-Split follows the story of Sirius, a man who has been cursed to roam the wo
 
 ### <h1 align="center">Control Scheme 🎮</h1>
 <p align="center">This game is supported by any modern browser as it runs in WebGL. Mobile devices are currently not supported.</p>
+
 * Space Bar: Used to jump. Press twice to double jump.
 * Left Mouse Button: Used to switch dimension. press once to switch to alternate dimension. 
 * Mouse Cursor: Move to adjust camera angle.
